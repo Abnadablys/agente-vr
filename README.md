@@ -16,4 +16,4 @@ O sistema:
 
 ```bash
 git clone https://github.com/seu-repo/vr-automation.git
-cd vr-automation
+cd agente-vr
