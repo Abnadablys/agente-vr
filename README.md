@@ -15,5 +15,5 @@ O sistema:
 ### 1. Clonar o repositório
 
 ```bash
-git clone https://github.com/seu-repo/vr-automation.git
+git clone https://github.com/Abnadablys/agente-vr/blob/main/app.py
 cd agente-vr
